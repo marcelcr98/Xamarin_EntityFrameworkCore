@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\bin\Debug\netstandard2.0\Lab12.deps.json
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\bin\Debug\netstandard2.0\Lab12.dll
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Lab12.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Lab12.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Lab12.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Views\AlbumesPage.xaml.g.cs
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Views\AlbumPage.xaml.g.cs
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\bin\Debug\netstandard2.0\ref\Lab12.dll
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\bin\Debug\netstandard2.0\Lab12.pdb
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Lab12.dll
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\ref\Lab12.dll
+C:\Users\hp\source\repos\Lab12\Lab12\Lab12\obj\Debug\netstandard2.0\Lab12.pdb
